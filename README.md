@@ -1,1 +1,1 @@
-# create-sql-table
+# Create SQL schema
