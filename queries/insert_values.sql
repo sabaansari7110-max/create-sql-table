@@ -1,5 +1,6 @@
 USE startersql;
-INSERT INTO companymembers ( name, email, gender, DOB)  VALUES 
+INSERT INTO companymembers ( name, email, gender, DOB)  VALUES
+-- this data is just for example
 ( 'Jhonn' ,'jam00@gmail.com', 'MALE', '2002-11-07' ),
 ( 'elliss' ,'eliiis00@gmail.com', 'MALE', '2002-11-07' ),
 ( 'venlin' ,'venio00@gmail.com', 'MALE', '2002-11-07' ),
