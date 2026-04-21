@@ -1,1 +1,1 @@
-# Create SQL schema
+# Create SQL Schema
