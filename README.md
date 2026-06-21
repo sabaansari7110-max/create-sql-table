@@ -1,3 +1,2 @@
 # Create SQL Schema
 
-## Description 
