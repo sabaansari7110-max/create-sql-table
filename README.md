@@ -33,6 +33,6 @@ and data manipulation practices used in analytics workflows.
 ## 📫 Contact
 
 **Saba Ansari**  
-Data Analytics | SQL | Python | Tableau  
+Data Analytics | SQL | Python | Tableau | Excel
 GitHub: [sabaansari7110-max](https://github.com/sabaansari7110-max)
  
