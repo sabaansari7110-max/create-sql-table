@@ -13,7 +13,7 @@ relational database concepts — from table creation to advanced querying.
 - [ ] Joins (Inner, Left, Right, Full)
 - [ ] Subqueries
 - [ ] Aggregate functions (SUM, COUNT, AVG, etc.)
-- [ ] GROUP BY & HAVING
+- [x] GROUP BY & HAVING 
 - [ ] Views
 - [ ] Indexes
 - [ ] Stored procedures
