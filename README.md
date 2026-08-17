@@ -10,7 +10,7 @@ relational database concepts — from table creation to advanced querying.
 - [x] Primary keys & foreign keys
 - [x] Inserting records
 - [x] Updating records
-- [ ] Joins (Inner, Left, Right, Full)
+- [x] Joins (Inner, Left, Right, Full)
 - [ ] Subqueries
 - [ ] Aggregate functions (SUM, COUNT, AVG, etc.)
 - [x] GROUP BY & HAVING 
