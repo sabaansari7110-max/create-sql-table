@@ -14,7 +14,7 @@ relational database concepts — from table creation to advanced querying.
 - [ ] Subqueries
 - [ ] Aggregate functions (SUM, COUNT, AVG, etc.)
 - [x] GROUP BY & HAVING 
-- [ ] Views
+- [x] Views
 - [ ] Indexes
 - [ ] Stored procedures
 
