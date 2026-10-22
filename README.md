@@ -1,4 +1,3 @@
-
 # Create SQL Table
 
 A structured collection of SQL scripts covering core to intermediate 
